@@ -1,0 +1,3792 @@
+{
+  "feedVersion": 1,
+  "updated": "2026-08-18T13:49:18Z",
+  "note": "Catalog from probed iptv-org feeds (see tools/fetch_feeds.py). Streams verified at build time; re-run fetch_feeds.py to refresh.",
+  "message": "",
+  "channels": [
+    {
+      "id": "4egrsd",
+      "name": "4E",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «4E», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/Na0UCV7.png",
+      "streams": [
+        {
+          "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "acheloostvgrsd",
+      "name": "Acheloos TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Acheloos TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/5SVMxcu.png",
+      "streams": [
+        {
+          "url": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "action24grsd",
+      "name": "Action 24",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Action 24», κανάλι ψυχαγωγικό.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+      "streams": [
+        {
+          "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "aigaiotvgrsd",
+      "name": "Aigaio TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Aigaio TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/7LfuDJi.png",
+      "streams": [
+        {
+          "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "alerttvgrsd",
+      "name": "Alert",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Alert», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/xqa87lG.png",
+      "streams": [
+        {
+          "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "alphatvgrsd",
+      "name": "Alpha TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Alpha TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/6twzd38.png",
+      "streams": [
+        {
+          "url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ant1cypruscysd",
+      "name": "ANT1 Cyprus",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «ANT1 Cyprus», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/2KAObBt.png",
+      "streams": [
+        {
+          "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "astratvgrsd",
+      "name": "Astra TV",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Astra TV», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/oYRPfZm.png",
+      "streams": [
+        {
+          "url": "https://server.gointernet.gr/live/livestream.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "barazatvgrsd",
+      "name": "Baraza TV",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Baraza TV», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/TZ1unwF.png",
+      "streams": [
+        {
+          "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "barazatvdeephousegrsd",
+      "name": "Baraza TV Deep House",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Baraza TV Deep House», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/TZ1unwF.png",
+      "streams": [
+        {
+          "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "barazatvrelaxinggrsd",
+      "name": "Baraza TV Relaxing",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Baraza TV Relaxing», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/TZ1unwF.png",
+      "streams": [
+        {
+          "url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "besttvgrsd",
+      "name": "Best TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Best TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/AeeeDUc.png",
+      "streams": [
+        {
+          "url": "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "centertvgrsd",
+      "name": "Center TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Center TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/52JW71Q.png",
+      "streams": [
+        {
+          "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "channel8grhd",
+      "name": "Channel 8",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Channel 8», κανάλι γενικού περιεχομένου.",
+      "logo": "https://www.channel8.gr/img/channel8.png",
+      "streams": [
+        {
+          "url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "corfuchannelgrsd",
+      "name": "Corfu Channel",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Corfu Channel», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/EFL1Tjg.png",
+      "streams": [
+        {
+          "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tvcretagrsd",
+      "name": "Creta",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Creta», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/CpIeJyt.png",
+      "streams": [
+        {
+          "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "deltatvgrsd",
+      "name": "DELTA TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «DELTA TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+      "streams": [
+        {
+          "url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ebsbesd",
+      "name": "EBS",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «EBS», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/DIIRPNN.png",
+      "streams": [
+        {
+          "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ebsplusbesd",
+      "name": "EBS Plus",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «EBS Plus», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/7V012zQ.png",
+      "streams": [
+        {
+          "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ecclesiatvgrsd",
+      "name": "Ecclesia TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Ecclesia TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/QQSSMZx.png",
+      "streams": [
+        {
+          "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "egnatiatvgrsd",
+      "name": "Egnatia TV",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Egnatia TV», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/zuyYIca.png",
+      "streams": [
+        {
+          "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "epilogestvgrsd",
+      "name": "Epiloges TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Epiloges TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/3S4P7ob.png",
+      "streams": [
+        {
+          "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ertcosmosgrsd",
+      "name": "ERT Cosmos",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «ERT Cosmos», κανάλι γενικού περιεχομένου.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "eurotvgrsd",
+      "name": "Euro TV",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Euro TV», κανάλι ειδησεογραφικό.",
+      "logo": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png",
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "euronewsgreekfrsd",
+      "name": "Euronews Greek",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Euronews Greek», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/8t9mdg9.png",
+      "streams": [
+        {
+          "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "extrapronewsgrsd",
+      "name": "Extra ProNews",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Extra ProNews», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/VKW9xw6.png",
+      "streams": [
+        {
+          "url": "http://62.1.176.18:8888/extra/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "gnomitvgrsd",
+      "name": "Gnomi TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Gnomi TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.ibb.co/ZNCXr79/gnomi-logo.png",
+      "streams": [
+        {
+          "url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "groovytvgrsd",
+      "name": "Groovy TV",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Groovy TV», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/ZYNQuf1.png",
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "hellenicparliamenttvgrsd",
+      "name": "Hellenic Parliament TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Hellenic Parliament TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/o2cvqv3.png",
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "hellenictvuksd",
+      "name": "Hellenic TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Hellenic TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/NE7ddhC.png",
+      "streams": [
+        {
+          "url": "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "hightvgrsd",
+      "name": "High TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «High TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/8gHuwt7.png",
+      "streams": [
+        {
+          "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "ioniantvgrsd",
+      "name": "Ionian Channel",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Ionian Channel», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/JILN3kS.png",
+      "streams": [
+        {
+          "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "kontrachannelgrsd",
+      "name": "Kontra Channel",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Kontra Channel», κανάλι γενικού περιεχομένου.",
+      "logo": "https://kontrachannel.gr/images/kontrachannel24.png",
+      "streams": [
+        {
+          "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "kostvgrsd",
+      "name": "Kos TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Kos TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/bdJnQ1W.png",
+      "streams": [
+        {
+          "url": "https://eu1.streams.gr:8081/kostv/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "krititvgrsd",
+      "name": "Kriti TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Kriti TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/X7jKwYl.png",
+      "streams": [
+        {
+          "url": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "lepantotvgrsd",
+      "name": "Lepanto TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Lepanto TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
+      "streams": [
+        {
+          "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "messatidatvgrsd",
+      "name": "Messatida TV",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Messatida TV», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/WEYrIrC.png",
+      "streams": [
+        {
+          "url": "https://rtmp.streams.ovh:8081/mtv/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "montrealgreektvcasd",
+      "name": "Montreal Greek TV",
+      "country": "",
+      "geo": "world",
+      "category": "culture",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Montreal Greek TV», κανάλι πολιτιστικό.",
+      "logo": "https://i.imgur.com/Y5YnUit.png",
+      "streams": [
+        {
+          "url": "http://live.greektv.ca/hls1/greektv.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "naftemporikitvgrhd",
+      "name": "Naftemporiki TV",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Naftemporiki TV», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/9OFdMud.png",
+      "streams": [
+        {
+          "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "neatvgrsd",
+      "name": "Nea TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Nea TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/nvNW8G7.png",
+      "streams": [
+        {
+          "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "netmaxtvgrsd",
+      "name": "Netmax TV",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Netmax TV», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/dLvRD4k.png",
+      "streams": [
+        {
+          "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "notioitvgrsd",
+      "name": "Notioi TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Notioi TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/Nq00n8h.png",
+      "streams": [
+        {
+          "url": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "nrg91grsd",
+      "name": "NRG 91",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «NRG 91», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/1Zl1OJ5.png",
+      "streams": [
+        {
+          "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "onechannelgrhd",
+      "name": "One Channel",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «One Channel», κανάλι γενικού περιεχομένου.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png",
+      "streams": [
+        {
+          "url": "https://onechannel.siliconweb.com/one/stream/chunks.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "paniktvgrsd",
+      "name": "Panik TV",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Panik TV», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/13C3CPr.png",
+      "streams": [
+        {
+          "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "pellatvgrsd",
+      "name": "Pella TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Pella TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/JnDXKZo.png",
+      "streams": [
+        {
+          "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "playtvgrsd",
+      "name": "Play TV",
+      "country": "",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Play TV», κανάλι μουσικό.",
+      "logo": "https://i.imgur.com/JWFOYuD.png",
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "reloadplaygrsd",
+      "name": "Reload Play",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Reload Play», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/TZUsA2W.jpg",
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "riksatcysd",
+      "name": "RΙΚ Sat",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «RΙΚ Sat», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/BIKwFhD.png",
+      "streams": [
+        {
+          "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "samiakitvgrsd",
+      "name": "Samiaki TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Samiaki TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/9Pf1we6.png",
+      "streams": [
+        {
+          "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "sigmatvcysd",
+      "name": "Sigma TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Sigma TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/DXKx102.png",
+      "streams": [
+        {
+          "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "skaitvgrsd",
+      "name": "Skai TV",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Skai TV», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/mrKRFnf.png",
+      "streams": [
+        {
+          "url": "http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "starchannelgrsd",
+      "name": "STAR HD",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «STAR HD», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/6NUpxhr.png",
+      "streams": [
+        {
+          "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "starchannelinternationalgrhd",
+      "name": "STAR International",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «STAR International», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/6NUpxhr.png",
+      "streams": [
+        {
+          "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "starkentrikiselladasgrsd",
+      "name": "Star Kentrikis Elladas",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Star Kentrikis Elladas», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/ZBt6beo.png",
+      "streams": [
+        {
+          "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "syrostv1grsd",
+      "name": "Syros TV1",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Syros TV1», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/arQe5qS.png",
+      "streams": [
+        {
+          "url": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "telekritigrsd",
+      "name": "Telekriti",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Telekriti», κανάλι γενικού περιεχομένου.",
+      "logo": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+      "streams": [
+        {
+          "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "topchannelgrsd",
+      "name": "Top Channel",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Top Channel», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/SfV2gJg.png",
+      "streams": [
+        {
+          "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "trtgrsd",
+      "name": "TRT",
+      "country": "",
+      "geo": "world",
+      "category": "news",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «TRT», κανάλι ειδησεογραφικό.",
+      "logo": "https://i.imgur.com/g0jPOcC.png",
+      "streams": [
+        {
+          "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "tv100grsd",
+      "name": "TV 100",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «TV 100», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/OBH2DfE.png",
+      "streams": [
+        {
+          "url": "https://gwebstream.net/hls/master.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "verginatvgrsd",
+      "name": "Vergina TV",
+      "country": "",
+      "geo": "world",
+      "category": "entertainment",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Vergina TV», κανάλι ψυχαγωγικό.",
+      "logo": "https://i.imgur.com/abQmFoH.png",
+      "streams": [
+        {
+          "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "xploregrsd",
+      "name": "Xplore",
+      "country": "",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «Xplore», κανάλι γενικού περιεχομένου.",
+      "logo": "https://i.imgur.com/8oy62fX.png",
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    }
+  ],
+  "epg": [
+    {
+      "channelId": "4egrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "4egrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "4egrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "4egrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "4egrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "4egrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "acheloostvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "acheloostvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "acheloostvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "acheloostvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "acheloostvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "acheloostvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "action24grsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "action24grsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "action24grsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "action24grsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "action24grsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "action24grsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "aigaiotvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "aigaiotvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "aigaiotvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "aigaiotvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "aigaiotvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "aigaiotvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "alerttvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "alerttvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "alerttvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "alerttvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "alerttvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "alerttvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "alphatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "alphatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "alphatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "alphatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "alphatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "alphatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ant1cypruscysd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "ant1cypruscysd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "ant1cypruscysd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "ant1cypruscysd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "ant1cypruscysd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "ant1cypruscysd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "astratvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "astratvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "astratvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "astratvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "astratvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "astratvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "barazatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "barazatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "barazatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "barazatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "barazatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "barazatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "barazatvdeephousegrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "barazatvdeephousegrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "barazatvdeephousegrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "barazatvdeephousegrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "barazatvdeephousegrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "barazatvdeephousegrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "barazatvrelaxinggrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "barazatvrelaxinggrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "barazatvrelaxinggrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "barazatvrelaxinggrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "barazatvrelaxinggrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "barazatvrelaxinggrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "besttvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "besttvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "besttvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "besttvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "besttvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "besttvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "centertvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "centertvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "centertvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "centertvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "centertvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "centertvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "channel8grhd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "channel8grhd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "channel8grhd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "channel8grhd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "channel8grhd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "channel8grhd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "corfuchannelgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "corfuchannelgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "corfuchannelgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "corfuchannelgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "corfuchannelgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "corfuchannelgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "tvcretagrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "tvcretagrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "tvcretagrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "tvcretagrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "tvcretagrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "tvcretagrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "deltatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "deltatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "deltatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "deltatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "deltatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "deltatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ebsbesd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ebsbesd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ebsbesd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "ebsbesd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "ebsbesd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ebsbesd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ebsplusbesd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ebsplusbesd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ebsplusbesd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "ebsplusbesd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "ebsplusbesd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ebsplusbesd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ecclesiatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ecclesiatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ecclesiatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "ecclesiatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "ecclesiatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ecclesiatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "egnatiatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "egnatiatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "egnatiatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "egnatiatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "egnatiatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "egnatiatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "epilogestvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "epilogestvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "epilogestvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "epilogestvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "epilogestvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "epilogestvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ertcosmosgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ertcosmosgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ertcosmosgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "ertcosmosgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "ertcosmosgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ertcosmosgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "eurotvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "eurotvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "eurotvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "eurotvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "eurotvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "eurotvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "euronewsgreekfrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "euronewsgreekfrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "euronewsgreekfrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "euronewsgreekfrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "euronewsgreekfrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "euronewsgreekfrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "extrapronewsgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "extrapronewsgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "extrapronewsgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "extrapronewsgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "extrapronewsgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "extrapronewsgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "gnomitvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "gnomitvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "gnomitvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "gnomitvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "gnomitvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "gnomitvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "groovytvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "groovytvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "groovytvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "groovytvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "groovytvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "groovytvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "hellenicparliamenttvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "hellenicparliamenttvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "hellenicparliamenttvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "hellenicparliamenttvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "hellenicparliamenttvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "hellenicparliamenttvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "hellenictvuksd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "hellenictvuksd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "hellenictvuksd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "hellenictvuksd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "hellenictvuksd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "hellenictvuksd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "hightvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "hightvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "hightvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "hightvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "hightvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "hightvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ioniantvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ioniantvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "ioniantvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "ioniantvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "ioniantvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "ioniantvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "kontrachannelgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "kontrachannelgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "kontrachannelgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "kontrachannelgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "kontrachannelgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "kontrachannelgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "kostvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "kostvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "kostvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "kostvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "kostvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "kostvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "krititvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "krititvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "krititvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "krititvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "krititvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "krititvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "lepantotvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "lepantotvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "lepantotvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "lepantotvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "lepantotvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "lepantotvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "messatidatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "messatidatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "messatidatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "messatidatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "messatidatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "messatidatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "montrealgreektvcasd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ντοκιμαντέρ",
+      "description": "Ντοκιμαντέρ για την Ελλάδα και τον πολιτισμό της."
+    },
+    {
+      "channelId": "montrealgreektvcasd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Ταινία — Κλασική",
+      "description": "Κλασική ελληνική ταινία."
+    },
+    {
+      "channelId": "montrealgreektvcasd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Θέατρο",
+      "description": "Θεατρική παράσταση από ελληνική σκηνή."
+    },
+    {
+      "channelId": "montrealgreektvcasd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Μουσική Βραδιά",
+      "description": "Πολιτιστική μουσική εκπομπή."
+    },
+    {
+      "channelId": "montrealgreektvcasd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ντοκιμαντέρ",
+      "description": "Ντοκιμαντέρ για την Ελλάδα και τον πολιτισμό της."
+    },
+    {
+      "channelId": "montrealgreektvcasd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Ταινία — Κλασική",
+      "description": "Κλασική ελληνική ταινία."
+    },
+    {
+      "channelId": "naftemporikitvgrhd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "naftemporikitvgrhd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "naftemporikitvgrhd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "naftemporikitvgrhd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "naftemporikitvgrhd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "naftemporikitvgrhd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "neatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "neatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "neatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "neatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "neatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "neatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "netmaxtvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "netmaxtvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "netmaxtvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "netmaxtvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "netmaxtvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "netmaxtvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "notioitvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "notioitvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "notioitvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "notioitvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "notioitvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "notioitvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "nrg91grsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "nrg91grsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "nrg91grsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "nrg91grsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "nrg91grsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "nrg91grsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "onechannelgrhd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "onechannelgrhd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "onechannelgrhd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "onechannelgrhd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "onechannelgrhd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "onechannelgrhd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "paniktvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "paniktvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "paniktvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "paniktvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "paniktvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "paniktvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "pellatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "pellatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "pellatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "pellatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "pellatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "pellatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "playtvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "playtvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "playtvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "playtvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "playtvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "playtvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "reloadplaygrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "reloadplaygrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "reloadplaygrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "reloadplaygrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "reloadplaygrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "reloadplaygrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "riksatcysd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "riksatcysd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "riksatcysd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "riksatcysd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "riksatcysd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "riksatcysd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "samiakitvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "samiakitvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "samiakitvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "samiakitvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "samiakitvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "samiakitvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "sigmatvcysd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "sigmatvcysd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "sigmatvcysd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "sigmatvcysd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "sigmatvcysd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "sigmatvcysd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "skaitvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "skaitvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "skaitvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "skaitvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "skaitvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "skaitvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "starchannelgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "starchannelgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "starchannelgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "starchannelgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "starchannelgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "starchannelgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "starchannelinternationalgrhd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "starchannelinternationalgrhd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "starchannelinternationalgrhd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "starchannelinternationalgrhd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "starchannelinternationalgrhd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "starchannelinternationalgrhd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "starkentrikiselladasgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "starkentrikiselladasgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "starkentrikiselladasgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "starkentrikiselladasgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "starkentrikiselladasgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "starkentrikiselladasgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "syrostv1grsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "syrostv1grsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "syrostv1grsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "syrostv1grsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "syrostv1grsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "syrostv1grsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "telekritigrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "telekritigrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "telekritigrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "telekritigrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "telekritigrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "telekritigrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "topchannelgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "topchannelgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "topchannelgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "topchannelgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "topchannelgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "topchannelgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "trtgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "trtgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημβρινό Δελτίο Ειδήσεων",
+      "description": "Οι κυριότερες εξελίξεις της ημέρας."
+    },
+    {
+      "channelId": "trtgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρικό Δελτίο Ειδήσεων",
+      "description": "Το βραδινό δελτίο ειδήσεων με αναλυτική κάλυψη."
+    },
+    {
+      "channelId": "trtgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Δελτίο",
+      "description": "Τελευταία ενημέρωση της ημέρας."
+    },
+    {
+      "channelId": "trtgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Επικαιρότητα",
+      "description": "Ανασκόπηση των γεγονότων της εβδομάδας."
+    },
+    {
+      "channelId": "trtgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Καλημέρα Ελλάδα",
+      "description": "Πρωινή ενημερωτική εκπομπή με νέα, πολιτική και συνεντεύξεις."
+    },
+    {
+      "channelId": "tv100grsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "tv100grsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "tv100grsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "tv100grsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "tv100grsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "tv100grsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "verginatvgrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "verginatvgrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "verginatvgrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Ψυχαγωγική Εκπομπή",
+      "description": "Βραδινή ψυχαγωγία με μουσική και χιούμορ."
+    },
+    {
+      "channelId": "verginatvgrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Ριάλιτι",
+      "description": "Ρεάλιτι με καθημερινή παρακολούθηση."
+    },
+    {
+      "channelId": "verginatvgrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Σειρά — Δραματική",
+      "description": "Ελληνική δραματική σειρά."
+    },
+    {
+      "channelId": "verginatvgrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Τηλεπαιχνίδι",
+      "description": "Διαγωνιστικό τηλεπαιχνίδι με έπαθλα."
+    },
+    {
+      "channelId": "xploregrsd",
+      "start": "2026-08-18T12:00:00Z",
+      "end": "2026-08-18T13:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "xploregrsd",
+      "start": "2026-08-18T13:00:00Z",
+      "end": "2026-08-18T15:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "xploregrsd",
+      "start": "2026-08-18T15:00:00Z",
+      "end": "2026-08-18T16:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "xploregrsd",
+      "start": "2026-08-18T16:00:00Z",
+      "end": "2026-08-18T17:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "xploregrsd",
+      "start": "2026-08-18T17:00:00Z",
+      "end": "2026-08-18T19:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "xploregrsd",
+      "start": "2026-08-18T19:00:00Z",
+      "end": "2026-08-18T20:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    }
+  ]
+}
