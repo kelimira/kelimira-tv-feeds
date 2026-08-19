@@ -1,7 +1,7 @@
 {
-  "feedVersion": 2,
-  "updated": "2026-08-19T05:38:42Z",
-  "note": "Catalog from probed iptv-org feeds (see tools/fetch_feeds.py). Streams verified at build time; re-run fetch_feeds.py to refresh.",
+  "feedVersion": 3,
+  "updated": "2026-08-19T05:51:35Z",
+  "note": "Catalog from probed iptv-org + grtv feeds (see tools/fetch_feeds.py). Streams verified at build time; the nightly GitHub Action refreshes automatically.",
   "message": "",
   "channels": [
     {
@@ -2063,26 +2063,6 @@
       ]
     },
     {
-      "id": "nasostvradio2",
-      "name": "NASOS TV RADIO 2",
-      "country": "Ελλάδα",
-      "geo": "world",
-      "category": "music",
-      "language": "el",
-      "kind": "tv",
-      "live": true,
-      "description": "Ζωντανή μετάδοση — «NASOS TV RADIO 2».",
-      "logo": "https://i.imgur.com/FKV0hAw.png",
-      "streams": [
-        {
-          "url": "https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8",
-          "format": "hls",
-          "quality": "auto",
-          "verified": true
-        }
-      ]
-    },
-    {
       "id": "radioeirhnh",
       "name": "RADIO EIRHNH TV",
       "country": "Ελλάδα",
@@ -2683,6 +2663,46 @@
           "format": "hls",
           "quality": "auto",
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "name": "CITY TV",
+      "country": "Κύπρος",
+      "geo": "world",
+      "category": "general",
+      "language": "el",
+      "kind": "tv",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «CITY TV».",
+      "logo": "https://i.imgur.com/acHtejH.png",
+      "streams": [
+        {
+          "url": "https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+          "format": "hls",
+          "quality": "auto",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "nasostvradio2",
+      "name": "NASOS TV RADIO 2",
+      "country": "Ελλάδα",
+      "geo": "world",
+      "category": "music",
+      "language": "el",
+      "kind": "tv",
+      "live": true,
+      "description": "Ζωντανή μετάδοση — «NASOS TV RADIO 2».",
+      "logo": "https://i.imgur.com/FKV0hAw.png",
+      "streams": [
+        {
+          "url": "https://fr.crystalweb.net:1936/nasostv/nasostv/playlist.m3u8",
+          "format": "hls",
+          "quality": "auto",
+          "verified": false
         }
       ]
     }
@@ -6217,48 +6237,6 @@
       "description": "Συναυλία με Έλληνες καλλιτέχνες."
     },
     {
-      "channelId": "nasostvradio2",
-      "start": "2026-08-19T04:00:00Z",
-      "end": "2026-08-19T05:00:00Z",
-      "title": "Ελληνικά Τραγούδια",
-      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
-    },
-    {
-      "channelId": "nasostvradio2",
-      "start": "2026-08-19T05:00:00Z",
-      "end": "2026-08-19T07:00:00Z",
-      "title": "Live Συναυλία",
-      "description": "Συναυλία με Έλληνες καλλιτέχνες."
-    },
-    {
-      "channelId": "nasostvradio2",
-      "start": "2026-08-19T07:00:00Z",
-      "end": "2026-08-19T08:00:00Z",
-      "title": "Top 20",
-      "description": "Το ελληνικό top 20 της εβδομάδας."
-    },
-    {
-      "channelId": "nasostvradio2",
-      "start": "2026-08-19T08:00:00Z",
-      "end": "2026-08-19T09:00:00Z",
-      "title": "Ρεμπέτικα & Λαϊκά",
-      "description": "Κλασικό ελληνικό ρεπερτόριο."
-    },
-    {
-      "channelId": "nasostvradio2",
-      "start": "2026-08-19T09:00:00Z",
-      "end": "2026-08-19T11:00:00Z",
-      "title": "Ελληνικά Τραγούδια",
-      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
-    },
-    {
-      "channelId": "nasostvradio2",
-      "start": "2026-08-19T11:00:00Z",
-      "end": "2026-08-19T12:00:00Z",
-      "title": "Live Συναυλία",
-      "description": "Συναυλία με Έλληνες καλλιτέχνες."
-    },
-    {
       "channelId": "radioeirhnh",
       "start": "2026-08-19T04:00:00Z",
       "end": "2026-08-19T05:00:00Z",
@@ -7475,6 +7453,90 @@
       "end": "2026-08-19T12:00:00Z",
       "title": "Μεσημεριανή Ζώνη",
       "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "city",
+      "start": "2026-08-19T04:00:00Z",
+      "end": "2026-08-19T05:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "city",
+      "start": "2026-08-19T05:00:00Z",
+      "end": "2026-08-19T07:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "city",
+      "start": "2026-08-19T07:00:00Z",
+      "end": "2026-08-19T08:00:00Z",
+      "title": "Κεντρική Ζώνη",
+      "description": "Βραδινό πρόγραμμα με σειρές και εκπομπές."
+    },
+    {
+      "channelId": "city",
+      "start": "2026-08-19T08:00:00Z",
+      "end": "2026-08-19T09:00:00Z",
+      "title": "Νυχτερινό Πρόγραμμα",
+      "description": "Ύστερο βραδινό πρόγραμμα."
+    },
+    {
+      "channelId": "city",
+      "start": "2026-08-19T09:00:00Z",
+      "end": "2026-08-19T11:00:00Z",
+      "title": "Πρωινό Στούντιο",
+      "description": "Πρωινή ψυχαγωγική εκπομπή με καλεσμένους."
+    },
+    {
+      "channelId": "city",
+      "start": "2026-08-19T11:00:00Z",
+      "end": "2026-08-19T12:00:00Z",
+      "title": "Μεσημεριανή Ζώνη",
+      "description": "Ελαφρύ μεσημεριανό πρόγραμμα."
+    },
+    {
+      "channelId": "nasostvradio2",
+      "start": "2026-08-19T04:00:00Z",
+      "end": "2026-08-19T05:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "nasostvradio2",
+      "start": "2026-08-19T05:00:00Z",
+      "end": "2026-08-19T07:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
+    },
+    {
+      "channelId": "nasostvradio2",
+      "start": "2026-08-19T07:00:00Z",
+      "end": "2026-08-19T08:00:00Z",
+      "title": "Top 20",
+      "description": "Το ελληνικό top 20 της εβδομάδας."
+    },
+    {
+      "channelId": "nasostvradio2",
+      "start": "2026-08-19T08:00:00Z",
+      "end": "2026-08-19T09:00:00Z",
+      "title": "Ρεμπέτικα & Λαϊκά",
+      "description": "Κλασικό ελληνικό ρεπερτόριο."
+    },
+    {
+      "channelId": "nasostvradio2",
+      "start": "2026-08-19T09:00:00Z",
+      "end": "2026-08-19T11:00:00Z",
+      "title": "Ελληνικά Τραγούδια",
+      "description": "Οι μεγαλύτερες ελληνικές επιτυχίες."
+    },
+    {
+      "channelId": "nasostvradio2",
+      "start": "2026-08-19T11:00:00Z",
+      "end": "2026-08-19T12:00:00Z",
+      "title": "Live Συναυλία",
+      "description": "Συναυλία με Έλληνες καλλιτέχνες."
     }
   ]
 }
