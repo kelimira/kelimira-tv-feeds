@@ -1,0 +1,47 @@
+name: Weekly feed-health report
+
+# Every Sunday at 04:00 UTC: re-probe all streams and post a GitHub issue
+# summarizing channels that need attention (pruning candidates, dead streams,
+# primaries down). One labeled issue is kept open at a time. Run it anytime
+# from the Actions tab.
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout feeds repo
+        uses: actions/checkout@v4
+
+      - name: Checkout channel repo (tools)
+        uses: actions/checkout@v4
+        with:
+          repository: kelimira/my-greek-tv
+          path: channel
+
+      - name: Fetch + probe streams
+        working-directory: channel/tools
+        run: python3 fetch_feeds.py
+
+      - name: Generate report
+        working-directory: channel
+        run: python3 tools/feed_report.py > report.md
+
+      - name: Close previous report issue
+        run: |
+          gh issue list --label feed-health --state open --json number --jq '.[].number' \
+            | xargs -r -n1 gh issue close --reason completed || true
+
+      - name: Post report issue
+        working-directory: channel
+        run: |
+          gh issue create --title "Weekly feed health report — $(date +%Y-%m-%d)" \
+            --body-file report.md --label feed-health
