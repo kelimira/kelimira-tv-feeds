@@ -19,20 +19,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout feeds repo
-        uses: actions/checkout@v4
-
-      - name: Checkout channel repo (tools)
-        uses: actions/checkout@v4
-        with:
-          repository: kelimira/my-greek-tv
-          path: channel
+        uses: actions/checkout@v5
 
       - name: Fetch + probe streams
-        working-directory: channel/tools
+        working-directory: tools
         run: python3 fetch_feeds.py
 
       - name: Generate report
-        working-directory: channel
         run: python3 tools/feed_report.py > report.md
 
       - name: Close previous report issue
@@ -41,7 +34,6 @@ jobs:
             | xargs -r -n1 gh issue close --reason completed || true
 
       - name: Post report issue
-        working-directory: channel
         run: |
           gh issue create --title "Weekly feed health report — $(date +%Y-%m-%d)" \
             --body-file report.md --label feed-health

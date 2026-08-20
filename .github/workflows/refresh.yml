@@ -4,6 +4,10 @@ name: Nightly feed refresh
 # regenerate the catalog with fresh alternates, and auto-push — so dead links
 # get replaced and new mirrors get added without any manual work.
 # Run it anytime from the Actions tab ("workflow_dispatch").
+#
+# NOTE: this repo is self-contained (tools/ holds the probe + generator
+# scripts, kept in sync with kelimira/my-greek-tv/tools). The channel repo is
+# private, so the workflow never checks it out.
 
 on:
   schedule:
@@ -18,37 +22,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout feeds repo
-        uses: actions/checkout@v4
-
-      - name: Checkout channel repo (probe/generation tools)
-        uses: actions/checkout@v4
-        with:
-          repository: kelimira/my-greek-tv
-          path: channel
+        uses: actions/checkout@v5
 
       - name: Use the deployed catalog as the retention baseline
         # gen_sample_feed keeps channels that the (US-based) runner cannot
         # verify, so geo-blocked streams are never silently pruned.
-        run: cp channels.json channel/feed/channels.json
+        run: mkdir -p feed && cp channels.json feed/channels.json
 
       - name: Fetch + probe streams
-        working-directory: channel/tools
+        working-directory: tools
         run: python3 fetch_feeds.py
 
       - name: Regenerate catalog
-        working-directory: channel
         run: python3 tools/gen_sample_feed.py
 
       - name: Validate
-        run: python3 channel/tools/validate_feed.py channel/feed/channels.json
+        run: python3 tools/validate_feed.py feed/channels.json
 
       - name: Commit and push if changed
         run: |
-          cp channel/feed/channels.json channels.json
+          cp feed/channels.json channels.json
           if ! git diff --quiet channels.json; then
             git config user.name "greek-express-bot"
             git config user.email "actions@users.noreply.github.com"
-            git add channels.json
+            git add channels.json tools/feeds_probed.json tools/grtv_probed.json
             git commit -m "Nightly feed refresh: probed alternates, verified streams"
             git push
             echo "Catalog updated."
