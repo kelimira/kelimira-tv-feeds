@@ -28,7 +28,10 @@ jobs:
         run: python3 fetch_feeds.py
 
       - name: Generate report
-        run: python3 tools/feed_report.py channels.json > report.md
+        run: |
+          python3 tools/feed_report.py channels.json > report.md
+          echo "report bytes: $(wc -c < report.md)"
+          ls -la channels.json tools/feed_report.py
 
       - name: Ensure label exists
         run: gh label create feed-health --description "Weekly feed health report" --color "fbca04" --force || true
@@ -40,5 +43,6 @@ jobs:
 
       - name: Post report issue
         run: |
+          echo "post step report bytes: $(wc -c < report.md)"
           gh issue create --title "Weekly feed health report — $(date +%Y-%m-%d)" \
             --body-file report.md --label feed-health
