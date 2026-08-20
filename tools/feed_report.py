@@ -18,6 +18,17 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 PROBE_FILES = [os.path.join(HERE, "feeds_probed.json"), os.path.join(HERE, "grtv_probed.json")]
 
 
+def default_feed_path():
+    """feed/channels.json in the repo root, with a channels.json fallback
+    (the feeds repo keeps the deployed catalog at its root)."""
+    p = os.path.join(HERE, "..", "feed", "channels.json")
+    if not os.path.exists(p):
+        alt = os.path.join(HERE, "..", "channels.json")
+        if os.path.exists(alt):
+            return alt
+    return p
+
+
 def load_json(path):
     try:
         with open(path, encoding="utf-8") as f:
@@ -33,16 +44,6 @@ def main():
     if not isinstance(channels, list):
         raise SystemExit("No channel list found in %s" % feed_path)
 
-
-def default_feed_path():
-    """feed/channels.json in the repo root, with a channels.json fallback
-    (the feeds repo keeps the deployed catalog at its root)."""
-    p = os.path.join(HERE, "..", "feed", "channels.json")
-    if not os.path.exists(p):
-        alt = os.path.join(HERE, "..", "channels.json")
-        if os.path.exists(alt):
-            return alt
-    return p
     status_by_url = {}
     for pf in PROBE_FILES:
         for e in load_json(pf):
@@ -54,7 +55,6 @@ def default_feed_path():
     no_verified = []     # (name, statuses) — pruning candidates
     primary_down = []    # (name, statuses)
     dead_streams = []    # (name, url)
-    alt_added_note = []
 
     for ch in channels:
         streams = ch.get("streams") or []
