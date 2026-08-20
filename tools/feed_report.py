@@ -27,11 +27,22 @@ def load_json(path):
 
 
 def main():
-    feed_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "feed", "channels.json")
+    feed_path = sys.argv[1] if len(sys.argv) > 1 else default_feed_path()
     data = load_json(feed_path)
     channels = data.get("channels") if isinstance(data, dict) else data
     if not isinstance(channels, list):
         raise SystemExit("No channel list found in %s" % feed_path)
+
+
+def default_feed_path():
+    """feed/channels.json in the repo root, with a channels.json fallback
+    (the feeds repo keeps the deployed catalog at its root)."""
+    p = os.path.join(HERE, "..", "feed", "channels.json")
+    if not os.path.exists(p):
+        alt = os.path.join(HERE, "..", "channels.json")
+        if os.path.exists(alt):
+            return alt
+    return p
     status_by_url = {}
     for pf in PROBE_FILES:
         for e in load_json(pf):
