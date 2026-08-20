@@ -17,6 +17,8 @@ permissions:
 jobs:
   report:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout feeds repo
         uses: actions/checkout@v5
