@@ -30,6 +30,9 @@ jobs:
       - name: Generate report
         run: python3 tools/feed_report.py > report.md
 
+      - name: Ensure label exists
+        run: gh label create feed-health --description "Weekly feed health report" --color "fbca04" --force || true
+
       - name: Close previous report issue
         run: |
           gh issue list --label feed-health --state open --json number --jq '.[].number' \
