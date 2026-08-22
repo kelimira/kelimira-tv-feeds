@@ -500,7 +500,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "blocked",
+  "status": "dead",
   "ok": false
  },
  {
@@ -776,8 +776,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "RIK 1",
