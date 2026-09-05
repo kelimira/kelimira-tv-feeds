@@ -716,8 +716,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "One Channel (1080p) [Geo-blocked]",
@@ -864,7 +864,7 @@
   "ok": true
  },
  {
-  "name": "STAR HD (1080p) [Non geo blocked]",
+  "name": "STAR HD (1080p)",
   "tvgId": "StarChannel.gr@SD",
   "logo": "https://i.imgur.com/6NUpxhr.png",
   "group": "Entertainment",
@@ -956,8 +956,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "TRT (720p)",
