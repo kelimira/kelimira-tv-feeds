@@ -60,7 +60,7 @@
   "ok": true
  },
  {
-  "name": "Alert (576p) [Not 24/7]",
+  "name": "Alert TV (576p) [Not 24/7]",
   "tvgId": "AlertTV.gr@SD",
   "logo": "https://i.imgur.com/xqa87lG.png",
   "group": "News",
@@ -120,7 +120,7 @@
   "ok": true
  },
  {
-  "name": "ART (1080p)",
+  "name": "ART (Greece) (1080p)",
   "tvgId": "ART.gr@SD",
   "logo": "https://i.imgur.com/mNeLu04.png",
   "group": "Culture",
@@ -228,7 +228,7 @@
   "ok": true
  },
  {
-  "name": "Channel 8 (1080p)",
+  "name": "Channel 8 (Greece) (1080p)",
   "tvgId": "Channel8.gr@HD",
   "logo": "https://www.channel8.gr/img/channel8.png",
   "group": "Undefined",
@@ -264,18 +264,6 @@
   "ok": true
  },
  {
-  "name": "Creta (540p) [Not 24/7]",
-  "tvgId": "TVCreta.gr@SD",
-  "logo": "https://i.imgur.com/CpIeJyt.png",
-  "group": "Undefined",
-  "country": "",
-  "language": "",
-  "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
-  "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
   "name": "DELTA TV (720p)",
   "tvgId": "DELTATV.gr@SD",
   "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
@@ -300,7 +288,7 @@
   "ok": false
  },
  {
-  "name": "EBS (1080p)",
+  "name": "EbS (1080p)",
   "tvgId": "EbS.be@SD",
   "logo": "https://i.imgur.com/DIIRPNN.png",
   "group": "Legislative",
@@ -312,7 +300,7 @@
   "ok": true
  },
  {
-  "name": "EBS Plus (1080p)",
+  "name": "EbS+ (1080p)",
   "tvgId": "EbSPlus.be@SD",
   "logo": "https://i.imgur.com/7V012zQ.png",
   "group": "Legislative",
@@ -324,7 +312,7 @@
   "ok": true
  },
  {
-  "name": "Ecclesia TV (1080p)",
+  "name": "Ecclesia TV (Greece) (1080p)",
   "tvgId": "EcclesiaTV.gr@SD",
   "logo": "https://i.imgur.com/QQSSMZx.png",
   "group": "Undefined",
@@ -428,8 +416,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ERT Sports 1 (1080p)",
@@ -456,7 +444,7 @@
   "ok": false
  },
  {
-  "name": "Euro TV (432p)",
+  "name": "Euro TV (Greece) (432p)",
   "tvgId": "EuroTV.gr@SD",
   "logo": "https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png",
   "group": "News",
@@ -564,7 +552,7 @@
   "ok": true
  },
  {
-  "name": "Ionian Channel (1080p) [Not 24/7]",
+  "name": "Ionian TV (1080p) [Not 24/7]",
   "tvgId": "IonianTV.gr@SD",
   "logo": "https://i.imgur.com/JILN3kS.png",
   "group": "General",
@@ -644,8 +632,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://rtmp.streams.ovh:8081/mtv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Montreal Greek TV (480p)",
@@ -756,7 +744,7 @@
   "ok": true
  },
  {
-  "name": "Play TV (480p) [Not 24/7]",
+  "name": "Play TV (Greece) (480p) [Not 24/7]",
   "tvgId": "PlayTV.gr@SD",
   "logo": "https://i.imgur.com/JWFOYuD.png",
   "group": "Music",
@@ -816,7 +804,7 @@
   "ok": false
  },
  {
-  "name": "RΙΚ Sat (CYBC S) (720p) [Not 24/7]",
+  "name": "RIK Sat (720p) [Not 24/7]",
   "tvgId": "RIKSat.cy@SD",
   "logo": "https://i.imgur.com/BIKwFhD.png",
   "group": "Undefined",
@@ -864,7 +852,7 @@
   "ok": true
  },
  {
-  "name": "STAR HD (1080p)",
+  "name": "Star Channel (Greece) (1080p)",
   "tvgId": "StarChannel.gr@SD",
   "logo": "https://i.imgur.com/6NUpxhr.png",
   "group": "Entertainment",
@@ -876,7 +864,7 @@
   "ok": true
  },
  {
-  "name": "STAR International (720p)",
+  "name": "Star Channel International (720p)",
   "tvgId": "StarChannelInternational.gr@HD",
   "logo": "https://i.imgur.com/6NUpxhr.png",
   "group": "Entertainment",
@@ -948,7 +936,7 @@
   "ok": false
  },
  {
-  "name": "Top Channel (720p)",
+  "name": "Top Channel (Greece) (720p)",
   "tvgId": "TopChannel.gr@SD",
   "logo": "https://i.imgur.com/SfV2gJg.png",
   "group": "General",
@@ -960,7 +948,7 @@
   "ok": true
  },
  {
-  "name": "TRT (720p)",
+  "name": "TRT (Greece) (720p)",
   "tvgId": "TRT.gr@SD",
   "logo": "https://i.imgur.com/g0jPOcC.png",
   "group": "News",
@@ -972,7 +960,7 @@
   "ok": true
  },
  {
-  "name": "TV 100 (720p)",
+  "name": "TV 100 (Greece) (720p)",
   "tvgId": "TV100.gr@SD",
   "logo": "https://i.imgur.com/OBH2DfE.png",
   "group": "General",
@@ -980,6 +968,18 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://gwebstream.net/hls/master.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "TV Creta (540p) [Not 24/7]",
+  "tvgId": "TVCreta.gr@SD",
+  "logo": "https://i.imgur.com/CpIeJyt.png",
+  "group": "Undefined",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
+  "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -1068,7 +1068,7 @@
   "ok": true
  },
  {
-  "name": "Sat7 Pars",
+  "name": "Sat 7 Pars",
   "tvgId": "Sat7Pars.cy@SD",
   "logo": "https://i.imgur.com/VTLQeul.png",
   "group": "Religious",
@@ -1080,7 +1080,7 @@
   "ok": true
  },
  {
-  "name": "Sat7 Türk (1080p)",
+  "name": "Sat 7 Turk (1080p)",
   "tvgId": "Sat7Turk.cy@SD",
   "logo": "https://i.imgur.com/cKQIK4i.png",
   "group": "Undefined",
