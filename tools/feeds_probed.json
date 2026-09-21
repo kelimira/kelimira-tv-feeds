@@ -488,7 +488,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "blocked",
+  "status": "dead",
   "ok": false
  },
  {
@@ -632,8 +632,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://rtmp.streams.ovh:8081/mtv/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Montreal Greek TV (480p)",
@@ -706,6 +706,18 @@
   "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
   "status": "dead",
   "ok": false
+ },
+ {
+  "name": "Omega Channel (576i) [Geo-blocked]",
+  "tvgId": "OmegaChannel.cy@SD",
+  "logo": "https://i.ibb.co/QrSzNn6/31087.png",
+  "group": "General",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
+  "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "One Channel (1080p) [Geo-blocked]",
