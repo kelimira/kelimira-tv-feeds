@@ -1,49 +1,121 @@
 [
  {
-  "name": "ERT1 HD",
+  "name": "ΕΡΤ1 HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/oh9E9sK.png",
   "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "ΕΡΤ1 HD BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/oh9E9sK.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/default/index.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "ΕΡΤ1 HD BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/oh9E9sK.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8",
   "status": "blocked",
   "ok": false
  },
  {
-  "name": "ERT1 HD BUP",
+  "name": "ΕΡΤ1 HD BUP 3",
   "tvgId": "",
   "logo": "https://i.imgur.com/oh9E9sK.png",
   "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://spark3.smart-tv-data.com/ert1HD/ert1HD/playlist.m3u8",
+  "url": "https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.m3u8",
   "status": "dead",
   "ok": false
  },
  {
-  "name": "ERT2 SPOR HD",
+  "name": "ΕΡΤ2 SPOR HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/ZpUEkeq.png",
   "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/default/index.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "ΕΡΤ2 SPOR HD BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/ndZMSTX.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "ΕΡΤ2 SPOR HD BUP 3",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/ZpUEkeq.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8",
   "status": "blocked",
   "ok": false
  },
  {
-  "name": "ERT3 HD",
+  "name": "ΕΡΤ3 HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/oKxPmQJ.png",
   "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT3/default/index.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "ΕΡΤ3 HD BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/oKxPmQJ.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "ΕΡΤ3 HD BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/oKxPmQJ.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/playlist.m3u8",
   "status": "blocked",
   "ok": false
  },
@@ -55,9 +127,9 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8",
-  "status": "dead",
-  "ok": false
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTNews/default/index.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ERT NEWS BUP 3",
@@ -67,21 +139,45 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://telmaco-cdn.akamaized.net/ertnews-cc/index.m3u8",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
   "status": "ok",
   "ok": true
  },
  {
-  "name": "ERT NEWS BUP 4",
+  "name": "ΣΚΑΪ HD",
   "tvgId": "",
-  "logo": "https://i.imgur.com/pMia7tN.png",
+  "logo": "https://i.imgur.com/o2aft6Q.png",
   "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "url": "https://skai-live.siliconweb.com/media/cambria4/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΣΚΑΪ HD BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/o2aft6Q.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://skai-live-gr.siliconweb.com/media/cambria4/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΣΚΑΪ HD BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/o2aft6Q.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://skai-live-gr-cy.siliconweb.com/media/cambria4/index.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ANT1 HD",
@@ -91,7 +187,7 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist.m3u8",
+  "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
   "status": "blocked",
   "ok": false
  },
@@ -156,18 +252,6 @@
   "ok": true
  },
  {
-  "name": "SKAI HD",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/o2aft6Q.png",
-  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://skai-live.siliconweb.com/media/cambria4/index.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
   "name": "OPEN TV HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/cshmF4s.png",
@@ -180,18 +264,6 @@
   "ok": true
  },
  {
-  "name": "OPEN TV HD BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/cshmF4s.png",
-  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://spark3.smart-tv-data.com/openHD/openHD/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
   "name": "MAK. HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/RVs0GZa.png",
@@ -199,9 +271,45 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist.m3u8",
+  "url": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8",
   "status": "blocked",
   "ok": false
+ },
+ {
+  "name": "ΒΟΥΛΗ",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/RJ5KBOl.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΒΟΥΛΗ BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/RJ5KBOl.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/Vouli_World/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΒΟΥΛΗ BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/RJ5KBOl.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ERT WORLD",
@@ -300,43 +408,43 @@
   "ok": false
  },
  {
-  "name": "RIK SAT CY",
+  "name": "ΡΙΚ SAT ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/kPluFii.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+  "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
   "status": "ok",
   "ok": true
  },
  {
-  "name": "RIK SAT CY BUP 2",
+  "name": "ΡΙΚ SAT ΚΥΠΡΟΥ BUP",
   "tvgId": "",
   "logo": "https://i.imgur.com/kPluFii.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.akamaized.net/ertlive/rik/default/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
-  "name": "RIK SAT CY BUP 3",
+  "name": "ΡΙΚ SAT ΚΥΠΡΟΥ BUP 2",
   "tvgId": "",
   "logo": "https://i.imgur.com/kPluFii.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.ascdn.broadpeak.io/ertlive/rik/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
-  "name": "RIK 1 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
+  "name": "ΡΙΚ 1 ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
   "tvgId": "",
   "logo": "https://i.imgur.com/hCTiZPB.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
@@ -348,7 +456,7 @@
   "ok": false
  },
  {
-  "name": "RIK 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
+  "name": "ΡΙΚ 2 ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
   "tvgId": "",
   "logo": "https://i.imgur.com/wqJi4TF.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
@@ -360,7 +468,7 @@
   "ok": false
  },
  {
-  "name": "RIK HD CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
+  "name": "ΡΙΚ HD ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
   "tvgId": "",
   "logo": "https://i.imgur.com/1fhdPve.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
@@ -372,19 +480,7 @@
   "ok": false
  },
  {
-  "name": "SIGMA CY",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/lFjBmPF.png",
-  "group": "ΠΑΓΚΥΠΡΙΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "SIGMA CY BUP",
+  "name": "SIGMA ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/lFjBmPF.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
@@ -396,7 +492,43 @@
   "ok": true
  },
  {
-  "name": "ANT1 CY",
+  "name": "SIGMA ΚΥΠΡΟΥ BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/lFjBmPF.png",
+  "group": "ΠΑΓΚΥΠΡΙΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "SIGMA ΚΥΠΡΟΥ BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/lFjBmPF.png",
+  "group": "ΠΑΓΚΥΠΡΙΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://sl3.sigmatv.com/hls/live.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "SIGMA ΚΥΠΡΟΥ BUP 3",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/lFjBmPF.png",
+  "group": "ΠΑΓΚΥΠΡΙΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://sl1.sigmatv.com/hls/live.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ANT1 ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/oy02hGv.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
@@ -408,7 +540,7 @@
   "ok": true
  },
  {
-  "name": "ALPHA CY",
+  "name": "ALPHA ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/1jU8bGa.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
@@ -420,52 +552,184 @@
   "ok": false
  },
  {
-  "name": "OMEGA CY",
+  "name": "OMEGA ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/Np7xLfk.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
+  "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
   "status": "ok",
   "ok": true
  },
  {
-  "name": "VERGINA TV CY",
+  "name": "OMEGA CY ΚΥΠΡΟΥ",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/Np7xLfk.png",
+  "group": "ΠΑΓΚΥΠΡΙΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "VERGINA TV ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/FovFTow.png",
   "group": "ΠΑΓΚΥΠΡΙΑ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://verginanews.gr:8080/hls_live/stream2.m3u8",
-  "status": "error",
-  "ok": false
+  "url": "https://verginanews.gr:8443/hls_live/stream2.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
-  "name": "SMILE TV CY",
+  "name": "APT TV ΑΤΤΙΚΗΣ",
   "tvgId": "",
-  "logo": "https://i.imgur.com/8ZCpwfv.png",
-  "group": "ΠΑΓΚΥΠΡΙΑ",
+  "logo": "https://i.imgur.com/C3H8Miw.png",
+  "group": "ΑΤΤΙΚΗ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://s1.cystream.net/live/smile/playlist.m3u8",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ALERT",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/rObfnzr.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "BLUE SKY",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/mLrrVZn.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
   "status": "blocked",
   "ok": false
  },
  {
-  "name": "SMILE TV CY",
+  "name": "BLUE SKY HD BUP",
   "tvgId": "",
-  "logo": "https://i.imgur.com/8ZCpwfv.png",
-  "group": "ΠΑΙΔΙΚΑ",
+  "logo": "https://i.imgur.com/mLrrVZn.png",
+  "group": "ΑΤΤΙΚΗ",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://s1.cystream.net/live/smile/playlist.m3u8",
+  "url": "https://cdn5.smart-tv-data.com/bluesky/blueskyHD/playlist.m3u8",
   "status": "blocked",
   "ok": false
+ },
+ {
+  "name": "ONE CHANNEL",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/12Pk9r4.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ONE CHANNEL BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/12Pk9r4.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://push-int.siliconweb.com/one/stream/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ONE CHANNEL BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/12Pk9r4.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://onechannel.siliconweb.com/one/live_abr/one/stream/chunks_dvr.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "EXTRA CHANNEL",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/0iJp6zg.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "http://62.1.176.18:8888/extra/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "NAFTEMPORIKΙ TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/ifKWsaY.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ACTION 24",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/X9ysWNd.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "HIGH TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/GHZJGPb.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://live.streams.ovh/hightv/hightv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "KONTRA",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/Kny4NeR.png",
+  "group": "ΑΤΤΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "CENTER TV",
@@ -524,8 +788,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "THRAKINET",
@@ -584,8 +848,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "PONTOS TV",
@@ -848,8 +1112,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ILEKTRA TV",
@@ -860,8 +1124,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ASTRA TV",
@@ -872,8 +1136,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ASTRA TV BUP",
@@ -934,174 +1198,6 @@
   "url": "http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
   "status": "ok",
   "ok": true
- },
- {
-  "name": "ALERT",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/rObfnzr.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "ATTICA TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/VttzGrP.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
-  "name": "BLUE SKY",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/mLrrVZn.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
-  "name": "BLUE SKY HD BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/mLrrVZn.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://cdn5.smart-tv-data.com/bluesky/blueskyHD/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
-  "name": "ONE CHANNEL",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/12Pk9r4.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "ONE CHANNEL BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/12Pk9r4.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://push-int.siliconweb.com:80/one/stream/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "APT TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/C3H8Miw.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "APT TV BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/C3H8Miw.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://s1.cystream.net/live/art/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
-  "name": "ACTION 24",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/X9ysWNd.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "HIGH TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/GHZJGPb.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "KONTRA",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/Kny4NeR.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "NAFTEMPORIKΙ TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/ifKWsaY.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8",
-  "status": "error",
-  "ok": false
- },
- {
-  "name": "NAFTEMPORIKΙ TV BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/ifKWsaY.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://188125-castr.akamaized.net/631af9c016e5eace19ff9a5b/live_8bddbc506a1b11eebe2025b256f5a543/tracks-v1/index.fmp4.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
-  "name": "MAD TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/G0iN2tt.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://euc11.playlist.live-video.net/v1/playlist/CvcFCHMjC6T69JXyTEjFg6bCKMXuCZ6WBcSJ18_085c3P4UScGY84OJF_pxeEI0YidwF7bkBJ1pv8I8SeUjG22eMk3_06HVZHhaJd8mJ5HcaBggzawi67LZbA8JsYjD-oLqJYSuUeY-NtVDgMJBSWzt9LU10mglUHXLNZEsJQZZYlP0SzTjIziNa5NS9tt_ixK5yHXYQYknutlIxRzq0T-32rQSWsvge4bt_hFaBt4Ew3sfY6-1y_YkoVzCjVOobAyZeI6D4QzdSXVQtjiFTsWsSiZ_6u6v9BAuxgQlhnbcA8LUSulXdMFQOkroycPncIj8N5nRGylwaTaUaieQr6vmsh81S4fzKbQ3dcf6wkWvUHFAiB5bWwCd488YEqfynpgjchx_wNa8LtZJ1YmyyZt06N3D2OWJ9iZ9gzMPqzeonYpHMU0GoAqDKBVYuPA_dT8GaG9K0EzfjzufLk0PoNd6M-5TImiL6T-Nm6XSUWv9j63UYelxNqAVKhTyyLDtqiT4LQyu5GhhoOMc-x4ZygAJPkw3SQXq_KqsrfxNOcsv4tvr8HsxpPixp6cnLjgyqbln1wbLDR3thDdeIs3RVspexAqUC04hFCsEnq4EX0kJxIWNP-Ag3TWtt_xi9V-tQQaNRZ2R15wHtVXFhv-IKEvreuz009zCBiITCL5ju8i9eR7RHysMapf5JMS3B6RcRTEGu2ZT37cKbi1AU4AytGmiAoGMJrrppY_JE4upeQJfbg5fxOqgev0gvdlXjo5GvABM4Hq_Ljljjl49Exy24O1Y0ye4dngTYZRQDn3WcR8cRJ7CYG_2y_iFBGiKz3evGskfd61M67q_e4hTcyrqxt3v26GGCmwUntnI3hJ2Jh6Y4DmbCk2lbanMQa_0h2WIyDkCgGXpW70GPro6fCQzIvJI9kFTuR4pIF1Gxu19mtd0IIqhY3TSzsq28tWtqpq3jtcmn6T7ap2RvmY8hYdiRuW0JnouY9K5hVKW5KwXCz8aY2mAPrSxiZYGzGgyhUP2BER2Mn9b8cssgASoJZXUtd2VzdC0yMO8N.m3u8",
-  "status": "error",
-  "ok": false
  },
  {
   "name": "KRHTH TV",
@@ -1196,8 +1292,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "SAMIAKI TV",
@@ -1400,8 +1496,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "TILEMOUSIKI 2",
@@ -2132,8 +2228,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GREEK USA TV",
@@ -2564,8 +2660,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "FAROS TV2 CY",

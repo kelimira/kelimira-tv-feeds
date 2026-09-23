@@ -368,8 +368,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Epirus TV1 (720p)",
@@ -608,8 +608,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Mesogeios TV (720p)",
