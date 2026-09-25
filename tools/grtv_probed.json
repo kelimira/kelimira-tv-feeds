@@ -140,8 +140,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΣΚΑΪ HD",
@@ -312,102 +312,6 @@
   "ok": true
  },
  {
-  "name": "ERT WORLD",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/pu1amqH.png",
-  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8",
-  "status": "error",
-  "ok": false
- },
- {
-  "name": "STAR INTERNATIONAL",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/AazwSEQ.png",
-  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "DW ENGLISH BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/hF7IZid.png",
-  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
-  "name": "DW ENGLISH BUP 2",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/hF7IZid.png",
-  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.ascdn.broadpeak.io/ertlive/dw/default/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
-  "name": "TV5 MONDE EUROPE BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/aJslK4N.png",
-  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
-  "name": "TV5 MONDE EUROPE BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/aJslK4N.png",
-  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.ascdn.broadpeak.io/ertlive/tv5/default/index.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
-  "name": "VOULI",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/RJ5KBOl.png",
-  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8",
-  "status": "error",
-  "ok": false
- },
- {
-  "name": "VOULI BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/RJ5KBOl.png",
-  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
   "name": "ΡΙΚ SAT ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/kPluFii.png",
@@ -572,8 +476,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://pr.cloudskep.com/prevomcy/omegacy/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "VERGINA TV ΚΥΠΡΟΥ",
@@ -740,8 +644,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "DION TV",
@@ -962,7 +866,7 @@
  {
   "name": "CORFU CHANNEL",
   "tvgId": "",
-  "logo": "https://i.imgur.com/RacHLQU.png",
+  "logo": "https://i.imgur.com/HzpFsT5.png",
   "group": "ΔΥΤ. ΕΛΛΑΔΑ",
   "country": "",
   "language": "",
@@ -1076,8 +980,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "THESSALIA TV",
@@ -1130,7 +1034,7 @@
  {
   "name": "FORMEDIA TV",
   "tvgId": "",
-  "logo": "https://i.imgur.com/9TfxWcG.png",
+  "logo": "https://i.imgur.com/5fY0m97.png",
   "group": "🌾ΘΕΣΣΑΛΙΑ",
   "country": "",
   "language": "",
@@ -1330,6 +1234,66 @@
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8",
   "status": "error",
   "ok": false
+ },
+ {
+  "name": "ΕΡΤ COSMOS",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/9QZjC3x.png",
+  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΕΡΤ COSMOS (ΚΥΠΡΟΥ)",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/9QZjC3x.png",
+  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "STAR INTERNATIONAL",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/AazwSEQ.png",
+  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "EURONEWS",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/ztyDDH1.png",
+  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "DW ENGLISH BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/hF7IZid.png",
+  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "EGNATIA TV",
@@ -1568,8 +1532,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "MESSINIA TV",
@@ -2444,8 +2408,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/farostvchurch.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "AGIOS IOANNIS MANTOUDIOU",
@@ -2504,8 +2468,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "NOTIOI TV",
@@ -2564,8 +2528,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "IME WEB TV",
@@ -2648,7 +2612,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "dead",
+  "status": "blocked",
   "ok": false
  },
  {
@@ -2912,8 +2876,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "MR BEAN ANIMATED",

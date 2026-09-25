@@ -344,8 +344,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ENA Channel (1080p)",
@@ -428,7 +428,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
-  "status": "dead",
+  "status": "blocked",
   "ok": false
  },
  {
@@ -440,7 +440,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
-  "status": "dead",
+  "status": "blocked",
   "ok": false
  },
  {
@@ -488,7 +488,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "dead",
+  "status": "blocked",
   "ok": false
  },
  {
@@ -524,8 +524,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Hellenic TV (720p) [Not 24/7]",
@@ -608,8 +608,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Mesogeios TV (720p)",
@@ -704,8 +704,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Omega Channel (576i)",
@@ -1004,8 +1004,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Vouli TV (1080p) [Not 24/7]",
