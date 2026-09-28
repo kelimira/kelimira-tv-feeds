@@ -656,8 +656,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "PONTOS TV",
@@ -872,8 +872,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ILEKTRA TV",
@@ -884,8 +884,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "LYCHNOS",
@@ -920,8 +920,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "BEST TV",
@@ -992,8 +992,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://server.gointernet.gr/live/livestream.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ASTRA TV BUP",
@@ -1004,8 +1004,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "TRT TV",
@@ -1148,8 +1148,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "SAMIAKI TV",
@@ -1160,8 +1160,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "KOS TV",
@@ -1856,8 +1856,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ΛΑΜΨΗ TV",
@@ -1892,8 +1892,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "EGNATIA TV",
@@ -2108,8 +2108,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "GREEK USA TV",
@@ -2372,8 +2372,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "FAROS TV2 CY",
