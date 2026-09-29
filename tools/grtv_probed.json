@@ -224,7 +224,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
-  "status": "blocked",
+  "status": "dead",
   "ok": false
  },
  {
@@ -236,7 +236,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
-  "status": "blocked",
+  "status": "dead",
   "ok": false
  },
  {
@@ -656,8 +656,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "PONTOS TV",
@@ -884,8 +884,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "LYCHNOS",
@@ -1004,8 +1004,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "TRT TV",
@@ -1148,8 +1148,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "SAMIAKI TV",
@@ -1160,8 +1160,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "KOS TV",
@@ -1856,8 +1856,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΛΑΜΨΗ TV",
@@ -1892,8 +1892,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "EGNATIA TV",
@@ -1956,28 +1956,16 @@
   "ok": true
  },
  {
-  "name": "TINOS WEB TV",
+  "name": "FASHION TV GREECE",
   "tvgId": "",
-  "logo": "https://i.imgur.com/UFT4rZJ.png",
+  "logo": "https://i.imgur.com/9Hnb08N.png",
   "group": "WEB TV",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://gra1.crystalweb.net:1936/tinostv/tinostv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
-  "name": "ATHENS GEO TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/QAQhqIu.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://pro.free.hr:3236/stream/play.m3u8",
-  "status": "dead",
-  "ok": false
+  "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "NOTOS TV",
@@ -1988,18 +1976,6 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:8081/notos/index.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "FASHION TV GREECE",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/9Hnb08N.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -2028,7 +2004,7 @@
   "ok": true
  },
  {
-  "name": "ED TV (O)",
+  "name": "ED TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/I5667Zc.png",
   "group": "WEB TV",
@@ -2036,18 +2012,6 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
-  "name": "PAKOE",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/THpDcdE.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -2064,7 +2028,7 @@
   "ok": true
  },
  {
-  "name": "MONTREAL GREEK TV (O)",
+  "name": "MONTREAL GREEK TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/5dBF1Qf.png",
   "group": "WEB TV",
@@ -2076,16 +2040,16 @@
   "ok": true
  },
  {
-  "name": "STENT TV (O)",
+  "name": "STENT TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/nZfM2Dx.png",
   "group": "WEB TV",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8",
-  "status": "error",
-  "ok": false
+  "url": "https://stent-web-tv.b-cdn.net/hls/web/index.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GREEK VOICE",
@@ -2108,8 +2072,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GREEK USA TV",
@@ -2131,12 +2095,12 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx",
-  "status": "ok",
-  "ok": true
+  "url": "https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html",
+  "status": "error",
+  "ok": false
  },
  {
-  "name": "VOULI TV 2",
+  "name": "ΒΟΥΛΗ 2",
   "tvgId": "",
   "logo": "https://i.imgur.com/RJ5KBOl.png",
   "group": "WEB TV",
@@ -2148,19 +2112,7 @@
   "ok": true
  },
  {
-  "name": "VOULI TV 2 BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/RJ5KBOl.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://diavlos3.cnt.grnet.gr/parltv/webtv-2.sdp/playlist.m3u8",
-  "status": "error",
-  "ok": false
- },
- {
-  "name": "VOULI TV 3",
+  "name": "ΒΟΥΛΗ 3",
   "tvgId": "",
   "logo": "https://i.imgur.com/RJ5KBOl.png",
   "group": "WEB TV",
@@ -2170,18 +2122,6 @@
   "url": "https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8",
   "status": "ok",
   "ok": true
- },
- {
-  "name": "VOULI TV 3 BUP (O)",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/RJ5KBOl.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://diavlos3.cnt.grnet.gr/parltv/webtv-3-native.sdp/playlist.m3u8",
-  "status": "error",
-  "ok": false
  },
  {
   "name": "PRO NEWS",
@@ -2196,18 +2136,6 @@
   "ok": true
  },
  {
-  "name": "ELLAS WORLD",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/3Gy3JyZ.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://ellastvmax.ath.cx/freetv/promo/index.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
   "name": "XYLAGANI TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/arwviNh.png",
@@ -2215,7 +2143,7 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/xylagany_paradosi.m3u8",
+  "url": "https://fr.crystalweb.net:1936/xiylaganiparadosi/xiylaganiparadosi/playlist.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -2227,7 +2155,7 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/xalastratv.m3u8",
+  "url": "https://alpha.streamhub.gr/tv/hls/MWAF31fK8gUQ74QsNYoZI1Ld9NPtyrzm/playlist.m3u8?prefer=live",
   "status": "ok",
   "ok": true
  },
@@ -2244,19 +2172,7 @@
   "ok": true
  },
  {
-  "name": "PONTOS WEB TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/ik3FwJM.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://eu1.streams.gr:8081/pontoswebtv/index.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
-  "name": "PLUTON TV CYPRUS",
+  "name": "PLUTON TV ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/weO7Ehk.png",
   "group": "WEB TV",
@@ -2266,30 +2182,6 @@
   "url": "https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8",
   "status": "ok",
   "ok": true
- },
- {
-  "name": "ELLADA TV (O)",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/zdnVJcu.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8",
-  "status": "error",
-  "ok": false
- },
- {
-  "name": "TELEΚΡΗΤΗ",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/wGuh3Fo.png",
-  "group": "WEB TV",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
-  "status": "dead",
-  "ok": false
  },
  {
   "name": "NOTIOI TV",
@@ -2316,7 +2208,7 @@
   "ok": true
  },
  {
-  "name": "HELLENIC TV",
+  "name": "HELLENIC TV BUP",
   "tvgId": "",
   "logo": "https://i.imgur.com/niUXigD.png",
   "group": "WEB TV",
@@ -2328,28 +2220,28 @@
   "ok": true
  },
  {
-  "name": "CITY TV CY",
+  "name": "CITY TV ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/acHtejH.png",
   "group": "WEB TV",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-  "status": "ok",
-  "ok": true
+  "url": "https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/city_channel.html",
+  "status": "error",
+  "ok": false
  },
  {
-  "name": "ALFA SPORTS CY (O)",
+  "name": "ALFA SPORTS ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/Gl7PuMJ.png",
   "group": "WEB TV",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-  "status": "ok",
-  "ok": true
+  "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html",
+  "status": "error",
+  "ok": false
  },
  {
   "name": "IME WEB TV",
