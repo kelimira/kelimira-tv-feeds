@@ -115,6 +115,18 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΕΡΤ3 HD BUP 3",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/oKxPmQJ.png",
+  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/playlist.m3u8",
   "status": "blocked",
   "ok": false
@@ -224,7 +236,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
-  "status": "dead",
+  "status": "blocked",
   "ok": false
  },
  {
@@ -236,7 +248,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
-  "status": "dead",
+  "status": "blocked",
   "ok": false
  },
  {
@@ -788,8 +800,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/star/star/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "TOP CHANNEL",
@@ -884,8 +896,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "LYCHNOS",
@@ -956,8 +968,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "LEPANTO",
@@ -992,8 +1004,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://server.gointernet.gr/live/livestream.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ASTRA TV BUP",
@@ -1100,8 +1112,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://livetv.streams.ovh:8081/kriti/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "NEA TV",
@@ -1808,8 +1820,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://eu1.streams.gr:8081/netvtoronto/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "GROOVY",
@@ -1856,8 +1868,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ΛΑΜΨΗ TV",
@@ -2300,6 +2312,42 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://media2.streambrothers.com:1936/8328/8328/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "GREECE 24",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/lXjvUkz.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "CHANNEL 8",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/xRh3LHo.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ESCAPE TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/4YoEAIe.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://rtmp.streams.ovh:8081/escapemedia/index.m3u8",
   "status": "ok",
   "ok": true
  }
