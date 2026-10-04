@@ -156,18 +156,6 @@
   "ok": true
  },
  {
-  "name": "MEGA HD",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/HIcqDaY.png",
-  "group": "ΠΑΝΕΛΛΑΔΙΚΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "http://15.235.41.196/hls/mega.m3u8|User-Agent=Roku/DVP-14.6 (14.6.4.9914-CE)&x-roku-reserved-dev-id=75ab1929b0c20717db1f855a37a03a6a621fc3f",
-  "status": "error",
-  "ok": false
- },
- {
   "name": "ΣΚΑΪ HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/o2aft6Q.png",
@@ -680,8 +668,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "PONTOS TV",
@@ -1412,8 +1400,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://media2.streambrothers.com:19360/jrmrzudjpv/jrmrzudjpv.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "BARAZA 80S",
@@ -1628,8 +1616,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ΕΡΤ NEWS 3",
@@ -2108,8 +2096,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "GREEK USA TV",
@@ -2240,8 +2228,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rtmp.win:3882/live/nstv7live.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "HELLENIC TV BUP",
@@ -2300,8 +2288,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "FAROS TV2 CY",
