@@ -8,7 +8,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
-  "status": "error",
+  "status": "dead",
   "ok": false
  },
  {
@@ -456,18 +456,6 @@
   "ok": true
  },
  {
-  "name": "ALPHA ΚΥΠΡΟΥ",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/1jU8bGa.png",
-  "group": "ΠΑΓΚΥΠΡΙΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://l2.cloudskep.com/alphacyp/acy/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
- },
- {
   "name": "OMEGA ΚΥΠΡΟΥ",
   "tvgId": "",
   "logo": "https://i.imgur.com/Np7xLfk.png",
@@ -499,7 +487,7 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/core/platforms/artathens.m3u8",
+  "url": "https://rumble.com/live-hls/7dwbz2/playlist.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -668,8 +656,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "PONTOS TV",
@@ -900,6 +888,18 @@
   "ok": true
  },
  {
+  "name": "ILEKTRA TV BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/Ovl7Omf.png",
+  "group": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://183.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "LYCHNOS",
   "tvgId": "",
   "logo": "https://i.imgur.com/d6gaydU.png",
@@ -932,8 +932,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "BEST TV",
@@ -980,8 +980,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "THESSALIA TV",
@@ -1232,8 +1232,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΕΡΤ COSMOS",
@@ -1256,8 +1256,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "STAR INTERNATIONAL",
@@ -1452,6 +1452,30 @@
   "ok": true
  },
  {
+  "name": "AVANTI TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/0qdSp3k.png",
+  "group": "ΜΟΥΣΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://avantitv.siliconweb.com/dmg/avantitv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "JACKSON PALACE TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/a3xSkJX.png",
+  "group": "ΜΟΥΣΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://rtmp.streams.ovh:8081/jacksonmusictv/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "RED MUSIC",
   "tvgId": "",
   "logo": "https://i.imgur.com/FpC0lD9.png",
@@ -1596,6 +1620,18 @@
   "ok": true
  },
  {
+  "name": "KONITSA PLUS TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/jsFmjcW.png",
+  "group": "ΜΟΥΣΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "MEGA NEWS",
   "tvgId": "",
   "logo": "https://i.imgur.com/owoR8Xi.png",
@@ -1680,6 +1716,18 @@
   "ok": true
  },
  {
+  "name": "ERT SPORTS 1 BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/AZiKB0X.png",
+  "group": "HYBRID",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports1/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "ERT SPORTS 2 BUP",
   "tvgId": "",
   "logo": "https://i.imgur.com/qNYGMoc.png",
@@ -1688,6 +1736,18 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ERT SPORTS 2 BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/qNYGMoc.png",
+  "group": "HYBRID",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports2/default/index.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -1704,6 +1764,18 @@
   "ok": true
  },
  {
+  "name": "ERT SPORTS 3 BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/IGqJDwD.png",
+  "group": "HYBRID",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports3/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "ERT SPORTS 4",
   "tvgId": "",
   "logo": "https://i.imgur.com/AyobOnw.png",
@@ -1712,6 +1784,42 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ERT SPORTS 4 BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/AyobOnw.png",
+  "group": "HYBRID",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports4/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ERT SPORTS 5",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/0w5PbkG.png",
+  "group": "HYBRID",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ERT SPORTS 5 BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/0w5PbkG.png",
+  "group": "HYBRID",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTSports5/default/index.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -1882,6 +1990,30 @@
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8",
   "status": "ok",
   "ok": true
+ },
+ {
+  "name": "ΔΙΑΒΑΤΑ TV HD BUP",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/1DxMmHL.png",
+  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "GALAXY TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/kmrkryQ.png",
+  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8",
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ΛΑΜΨΗ TV",
@@ -2180,8 +2312,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alpha.streamhub.gr/tv/hls/MWAF31fK8gUQ74QsNYoZI1Ld9NPtyrzm/playlist.m3u8?prefer=live",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GRD CHANNEL",
@@ -2228,8 +2360,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rtmp.win:3882/live/nstv7live.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "HELLENIC TV BUP",
@@ -2360,6 +2492,30 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rtmp.streams.ovh:8081/escapemedia/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ARGOLIDA SPORT TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/Jm0SnfX.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://mcv.streams.gr/stream/argolidasportstv/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "PYLOS TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/z00S2GJ.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8",
   "status": "ok",
   "ok": true
  }
