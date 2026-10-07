@@ -408,6 +408,18 @@
   "ok": true
  },
  {
+  "name": "ERT Cosmos Cyprus (1080p)",
+  "tvgId": "ERTCosmosCyprus.cy@HD",
+  "logo": "https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg",
+  "group": "General",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
+  "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "ERT News HD (1080p)",
   "tvgId": "ERTNews.gr@HD",
   "logo": "https://i.imgur.com/HXbsPfB.png",
@@ -488,7 +500,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "blocked",
+  "status": "dead",
   "ok": false
  },
  {
@@ -608,8 +620,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Mesogeios TV (720p)",
