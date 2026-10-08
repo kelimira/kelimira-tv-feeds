@@ -236,7 +236,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
-  "status": "error",
+  "status": "dead",
   "ok": false
  },
  {
@@ -248,7 +248,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
-  "status": "error",
+  "status": "dead",
   "ok": false
  },
  {
@@ -656,8 +656,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "PONTOS TV",
@@ -884,8 +884,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ILEKTRA TV BUP",
@@ -980,8 +980,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "THESSALIA TV",
@@ -1004,8 +1004,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://server.gointernet.gr/live/livestream.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ASTRA TV BUP",
@@ -1016,8 +1016,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "TRT TV",
@@ -1160,8 +1160,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "SAMIAKI TV",
@@ -1256,6 +1256,18 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΕΡΤ COSMOS (ΚΥΠΡΟΥ)",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/9QZjC3x.png",
+  "group": "ΔΙΕΘΝΗ ΔΙΚΤΥΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -1436,8 +1448,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rtmp.win:3373/live/messiniatvlive.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "MESSATIDA WEB TV",
@@ -1472,6 +1484,18 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rtmp.streams.ovh:8081/jacksonmusictv/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ONAR TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/1LOGZCn.png",
+  "group": "ΜΟΥΣΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://live20.bozztv.com/akamaissh101/ssh101/onarradiotv/playlist.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -1568,8 +1592,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "TILEMOUSIKI BUP",
@@ -1580,8 +1604,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://65.108.62.57:8080/live2/greekmusic.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "PLAY TV",
@@ -1628,8 +1652,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "MEGA NEWS",
@@ -1896,6 +1920,30 @@
   "ok": true
  },
  {
+  "name": "ΟΡΘΟΔΟΞΙΑ TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/aCehw3g.png",
+  "group": "ΕΚΚΛΗΣΙΑΣΤΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΦΑΡΟΣ TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/i3722M9.png",
+  "group": "ΕΚΚΛΗΣΙΑΣΤΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/farostvchurch.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "ANT1 DRAMA",
   "tvgId": "",
   "logo": "https://i.imgur.com/5QDNhXo.png",
@@ -2000,8 +2048,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GALAXY TV",
@@ -2048,6 +2096,18 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8",
+  "status": "error",
+  "ok": false
+ },
+ {
+  "name": "DTP TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/tExRZzS.png",
+  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -2072,6 +2132,18 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+  "status": "dead",
+  "ok": false
+ },
+ {
+  "name": "PELLA TV BUP 2",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/9RXdElf.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Pellatv.m3u8",
   "status": "ok",
   "ok": true
  },
@@ -2408,8 +2480,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "FAROS TV CY",
@@ -2468,8 +2540,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "CHANNEL 8",
@@ -2516,6 +2588,18 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/28061968/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ΠΑΚΟΕ TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/THpDcdE.png",
+  "group": "WEB TV",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8",
   "status": "ok",
   "ok": true
  }
