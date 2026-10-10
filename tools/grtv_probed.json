@@ -464,8 +464,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "VERGINA TV ΚΥΠΡΟΥ",
@@ -656,8 +656,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "EURO TV BUP",
@@ -876,18 +876,6 @@
   "ok": true
  },
  {
-  "name": "START TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/PYYShEj.png",
-  "group": "ΔΥΤ. ΕΛΛΑΔΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
   "name": "ILEKTRA TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/Ovl7Omf.png",
@@ -896,8 +884,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ILEKTRA TV BUP",
@@ -1016,8 +1004,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://server.gointernet.gr/live/livestream.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ASTRA TV BUP",
@@ -1028,8 +1016,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "TRT TV",
@@ -1604,8 +1592,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "TILEMOUSIKI BUP",
@@ -1664,8 +1652,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/konitsaplustv.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "MEGA NEWS",
@@ -1908,6 +1896,18 @@
   "ok": true
  },
  {
+  "name": "TOM AND JERRY",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/88ipEYP.png",
+  "group": "ΠΑΙΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "ΕΚΚΛΗΣΙΑ TV HD",
   "tvgId": "",
   "logo": "https://i.imgur.com/lwiQPJm.png",
@@ -2048,8 +2048,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ΔΙΑΒΑΤΑ TV HD BUP",
@@ -2062,18 +2062,6 @@
   "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
   "status": "ok",
   "ok": true
- },
- {
-  "name": "GALAXY TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/kmrkryQ.png",
-  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8",
-  "status": "dead",
-  "ok": false
  },
  {
   "name": "ΛΑΜΨΗ TV",
@@ -2098,18 +2086,6 @@
   "url": "https://eu1.streams.gr:8081/choicetv/index.m3u8",
   "status": "ok",
   "ok": true
- },
- {
-  "name": "ΙΩΝΙΑ TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/6liuaHm.png",
-  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8",
-  "status": "dead",
-  "ok": false
  },
  {
   "name": "DTP TV ΠΥΛΙΑΣ",
@@ -2240,8 +2216,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/marontv/marontv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ED TV",
@@ -2504,8 +2480,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "FAROS TV2 CY",
@@ -2516,8 +2492,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "DESTINATION GREECE",
@@ -2540,8 +2516,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://media2.streambrothers.com:1936/8328/8328/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "GREECE 24",
@@ -2612,8 +2588,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/pakoe.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "DIAMOND CHANNEL",
