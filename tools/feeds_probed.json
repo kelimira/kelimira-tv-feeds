@@ -152,8 +152,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://server.gointernet.gr/live/livestream.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Baraza TV (1080p)",
@@ -548,8 +548,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "High TV (720p) [Not 24/7]",
@@ -728,7 +728,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
-  "status": "dead",
+  "status": "error",
   "ok": false
  },
  {
@@ -984,7 +984,7 @@
   "ok": true
  },
  {
-  "name": "TV 100 (Greece) (720p)",
+  "name": "TV 100 (720p)",
   "tvgId": "TV100.gr@SD",
   "logo": "https://i.imgur.com/OBH2DfE.png",
   "group": "General",
