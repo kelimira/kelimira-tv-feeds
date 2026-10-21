@@ -716,8 +716,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "DELTA TV",
@@ -980,8 +980,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "THESSALIA TV",
@@ -1196,8 +1196,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "SYROS TV1",
@@ -1244,8 +1244,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ΕΡΤ COSMOS (ΚΥΠΡΟΥ)",
@@ -1508,8 +1508,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "HOTBEATS TV",
@@ -2024,7 +2024,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://eu1.streams.gr:8081/netvtoronto/index.m3u8",
-  "status": "dead",
+  "status": "error",
   "ok": false
  },
  {
@@ -2084,8 +2084,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΛΑΜΨΗ TV",
@@ -2168,8 +2168,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Pellatv.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "RODOPI TV",
