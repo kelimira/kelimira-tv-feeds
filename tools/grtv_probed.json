@@ -800,8 +800,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/star/star/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "TOP CHANNEL",
@@ -908,8 +908,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "MESOGEIOS TV",
@@ -1232,8 +1232,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΕΡΤ COSMOS",
@@ -1244,8 +1244,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΕΡΤ COSMOS (ΚΥΠΡΟΥ)",
@@ -1472,8 +1472,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://avantitv.siliconweb.com/dmg/avantitv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "JACKSON PALACE TV",
@@ -1508,8 +1508,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "HOTBEATS TV",
@@ -1976,8 +1976,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ANT1 DRAMA",
@@ -2024,8 +2024,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://eu1.streams.gr:8081/netvtoronto/index.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GROOVY",
@@ -2060,8 +2060,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΔΙΑΒΑΤΑ TV HD",
@@ -2134,6 +2134,18 @@
   "url": "https://mcv3.streams.gr/stream/dipolotv/index.m3u8",
   "status": "ok",
   "ok": true
+ },
+ {
+  "name": "GALAXY TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/kmrkryQ.png",
+  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8",
+  "status": "error",
+  "ok": false
  },
  {
   "name": "EGNATIA TV",
@@ -2264,8 +2276,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "XPLORE",
@@ -2660,8 +2672,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/gaminglab/gaminglab/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "GAMING LAB BUP",
@@ -2672,7 +2684,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/gaminglabtv.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  }
 ]
