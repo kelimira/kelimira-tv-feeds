@@ -104,7 +104,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
-  "status": "error",
+  "status": "dead",
   "ok": false
  },
  {
@@ -1232,8 +1232,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΕΡΤ COSMOS",
@@ -1976,8 +1976,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ANT1 DRAMA",
@@ -2144,8 +2144,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://183.bozztv.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "EGNATIA TV",
@@ -2264,8 +2264,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/marontv/marontv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ED TV",
@@ -2276,8 +2276,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "XPLORE",
@@ -2686,5 +2686,17 @@
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/gaminglabtv.m3u8",
   "status": "ok",
   "ok": true
+ },
+ {
+  "name": "ANT1 HD TEST",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/GTFFtOR.png",
+  "group": "🇬🇷ΠΑΝΕΛΛΑΔΙΚΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://fastly.live.brightcove.com/6393544147112/eu-central-1/6415884360001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaDUyMXZnLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjQxNTg4NDM2MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODg0MzYwMDAxIl0sImp0aSI6IjYzOTM1NDQxNDcxMTIifQ.bicuTA_oyGq1PAlI7XZYSNYQFw_u5pXyBprAPFR1fCk/playlist-hls-dvr.m3u8|license_type=clearkey&license_key=c3dda4b50cd33d649ff85da63c3845c7:673bcc260c8163084178bafe14274223,e837138cf90c378f8da1dba2985bd335:477dfb0b7de7094a5a5686b7272c48f9,111705f00dea3a2fb800d13882aca8a2:d965685cbb65083e2751cb30218363ba,dda6517a6ca63a0ca21066e6284a3402:e895ea60ccfc01e8083c801e48f10d7b",
+  "status": "error",
+  "ok": false
  }
 ]
