@@ -392,7 +392,7 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
-  "status": "error",
+  "status": "dead",
   "ok": false
  },
  {
@@ -500,8 +500,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Gnomi TV (1080p)",
@@ -620,8 +620,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Mesogeios TV (720p)",
@@ -984,7 +984,7 @@
   "ok": true
  },
  {
-  "name": "TV 100 (720p)",
+  "name": "TV 100 (Greece) (720p)",
   "tvgId": "TV100.gr@SD",
   "logo": "https://i.imgur.com/OBH2DfE.png",
   "group": "General",
