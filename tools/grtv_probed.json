@@ -368,8 +368,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ΡΙΚ 1 ΚΥΠΡΟΥ (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)",
@@ -920,8 +920,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "MESOGEIOS TV",
@@ -992,8 +992,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "THESSALIA TV",
@@ -1160,8 +1160,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "AIGAIO TV BUP",
@@ -1172,8 +1172,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "SAMIAKI TV",
@@ -1716,6 +1716,18 @@
   "ok": true
  },
  {
+  "name": "MULTICAST TV",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/ZK6wwGp.png",
+  "group": "ΜΟΥΣΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://mcv.streams.gr/stream/multicasttv/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "MEGA NEWS",
   "tvgId": "",
   "logo": "https://i.imgur.com/owoR8Xi.png",
@@ -1760,8 +1772,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "SKAI HYBRID (OXI 24/7) BUP",
@@ -1916,8 +1928,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://65.108.62.57:8080/live4/kidshd.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ΕΡΤ KIDS TV",
@@ -2072,8 +2084,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://eu1.streams.gr:8081/netvtoronto/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "GROOVY",
@@ -2108,8 +2120,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΔΙΑΒΑΤΑ TV HD",
@@ -2196,6 +2208,18 @@
   "ok": false
  },
  {
+  "name": "MR BEAN",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/MLyv8ET.png",
+  "group": "ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "EGNATIA TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/2mu9TEe.png",
@@ -2204,8 +2228,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "PELLA TV",
@@ -2715,7 +2739,7 @@
   "name": "GAMING LAB",
   "tvgId": "",
   "logo": "https://i.imgur.com/lhPUUfk.png",
-  "group": "📺WEB TV",
+  "group": "WEB TV",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
@@ -2727,12 +2751,12 @@
   "name": "GAMING LAB BUP",
   "tvgId": "",
   "logo": "https://i.imgur.com/lhPUUfk.png",
-  "group": "📺WEB TV",
+  "group": "WEB TV",
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/gaminglabtv.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  }
 ]
