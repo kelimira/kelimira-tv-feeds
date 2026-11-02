@@ -216,6 +216,18 @@
   "ok": true
  },
  {
+  "name": "Cartoonito CEE",
+  "tvgId": "CartoonitoCEE.uk@SD",
+  "logo": "https://i.imgur.com/9MrzLb1.png",
+  "group": "Kids",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
+  "url": "http://193.33.39.108:9019/play/a00t",
+  "status": "error",
+  "ok": false
+ },
+ {
   "name": "Center TV (1080p)",
   "tvgId": "CenterTV.gr@SD",
   "logo": "https://i.imgur.com/52JW71Q.png",
@@ -404,8 +416,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ERT Cosmos Cyprus (1080p)",
