@@ -332,8 +332,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΡΙΚ SAT ΚΥΠΡΟΥ",
@@ -776,8 +776,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ALFA",
@@ -1352,8 +1352,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/BBC/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "BBC WORLD NEWS BUP 3",
@@ -1712,8 +1712,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "KONITSA TV BUP",
@@ -2012,8 +2012,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Orthodoxia_Radio_TV.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΦΑΡΟΣ TV",
@@ -2180,8 +2180,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "DIPOLO TV",
@@ -2228,8 +2228,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "PELLA TV",
@@ -2612,8 +2612,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "FAROS TV2 CY",
@@ -2624,8 +2624,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "DESTINATION GREECE",
