@@ -8,7 +8,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8",
-  "status": "error",
+  "status": "dead",
   "ok": false
  },
  {
@@ -500,8 +500,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://rumble.com/live-hls/7eta20/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "ALERT",
@@ -896,8 +896,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ILEKTRA TV",
@@ -932,8 +932,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "MESOGEIOS TV",
@@ -956,8 +956,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "BEST TV",
@@ -1076,8 +1076,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ETV",
@@ -1184,8 +1184,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "SAMIAKI TV",
@@ -1352,8 +1352,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/BBC/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "BBC WORLD NEWS BUP 3",
@@ -1652,8 +1652,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "TILEMOUSIKI BUP",
@@ -1712,7 +1712,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8",
-  "status": "dead",
+  "status": "error",
   "ok": false
  },
  {
@@ -1976,8 +1976,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ΕΚΚΛΗΣΙΑ TV HD",
@@ -2132,8 +2132,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ΔΙΑΒΑΤΑ TV HD BUP",
@@ -2408,8 +2408,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greektv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "GREEK USA TV",
@@ -2660,8 +2660,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "CHANNEL 8",

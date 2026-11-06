@@ -344,8 +344,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "Ellinikos FM (720p)",
@@ -372,7 +372,7 @@
   "ok": true
  },
  {
-  "name": "Epiloges TV",
+  "name": "Epiloges TV (480p)",
   "tvgId": "EpilogesTV.gr@SD",
   "logo": "https://i.imgur.com/3S4P7ob.png",
   "group": "General",
@@ -600,7 +600,7 @@
   "ok": true
  },
  {
-  "name": "Lepanto TV",
+  "name": "Lepanto TV (1080p)",
   "tvgId": "LepantoTV.gr@SD",
   "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
   "group": "General",
@@ -896,8 +896,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Start TV (480p)",
@@ -908,8 +908,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Syros TV1 (720p)",
