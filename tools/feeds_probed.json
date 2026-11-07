@@ -332,8 +332,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Egnatia TV (576p)",
@@ -344,8 +344,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Ellinikos FM (720p)",
@@ -440,8 +440,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Euro TV (Greece) (432p)",
@@ -488,8 +488,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "Gnomi TV (1080p)",
@@ -584,8 +584,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://eu1.streams.gr:8081/kostv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Kriti TV (1080p)",
@@ -896,8 +896,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Start TV (480p)",
@@ -1030,6 +1030,18 @@
   "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
   "status": "ok",
   "ok": true
+ },
+ {
+  "name": "BTL TV (Netherlands) (1080p)",
+  "tvgId": "BTLTV.nl@SD",
+  "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+  "group": "Religious",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/countries/gr.m3u",
+  "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "Ada TV",
