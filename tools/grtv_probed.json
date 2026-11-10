@@ -116,8 +116,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ΕΡΤ3 HD BUP 3",
@@ -490,18 +490,6 @@
   "url": "https://verginanews.gr:8443/hls_live/stream2.m3u8",
   "status": "ok",
   "ok": true
- },
- {
-  "name": "APT TV ΑΤΤΙΚΗΣ",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/C3H8Miw.png",
-  "group": "ΑΤΤΙΚΗ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://rumble.com/live-hls/7eta20/playlist.m3u8",
-  "status": "dead",
-  "ok": false
  },
  {
   "name": "ALERT",
@@ -1039,6 +1027,18 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://server.gointernet.gr/live/livestream.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
+  "name": "ASTRA TV BUP 3",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/dldI5FS.png",
+  "group": "ΘΕΣΣΑΛΙΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8",
   "status": "error",
   "ok": false
@@ -1292,8 +1292,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "STAR INTERNATIONAL",
@@ -1340,8 +1340,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/BBC/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "BBC WORLD NEWS BUP 2",
@@ -1784,8 +1784,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews3/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "EΡΤ NEWS NOHMATIKH BUP",
@@ -1808,8 +1808,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ERT SPORTS 1 BUP 2",
@@ -1832,8 +1832,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ERT SPORTS 2 BUP 2",
@@ -1856,8 +1856,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ERT SPORTS 3 BUP 2",
@@ -1880,8 +1880,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ERT SPORTS 4 BUP 2",
@@ -2688,9 +2688,9 @@
   "ok": true
  },
  {
-  "name": "ARGOLIDA SPORT TV",
+  "name": "NEXT MEDIA TV",
   "tvgId": "",
-  "logo": "https://i.imgur.com/Jm0SnfX.png",
+  "logo": "https://i.imgur.com/tMuefDo.png",
   "group": "WEB TV",
   "country": "",
   "language": "",
