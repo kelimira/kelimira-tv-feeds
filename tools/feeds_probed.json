@@ -120,6 +120,18 @@
   "ok": true
  },
  {
+  "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ANT1 Satellite",
+  "tvgId": "ANT1Satellite.gr@SD",
+  "logo": "https://i.imgur.com/ayJ2ABV.png",
+  "group": "Entertainment",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
+  "url": "http://194.156.236.36/stream/13/index.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "ART (Greece) (1080p)",
   "tvgId": "ART.gr@SD",
   "logo": "https://i.imgur.com/mNeLu04.png",
@@ -344,8 +356,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Ellinikos FM (720p)",
@@ -356,8 +368,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "ENA Channel (1080p)",
@@ -416,8 +428,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ERT Cosmos Cyprus (1080p)",
@@ -608,8 +620,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Mesogeios TV (720p)",
