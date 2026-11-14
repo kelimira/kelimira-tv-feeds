@@ -572,8 +572,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "http://62.1.176.18:8888/extra/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "NAFTEMPORIKΙ TV",
@@ -788,8 +788,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/star/star/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "TOP CHANNEL",
@@ -864,18 +864,6 @@
   "ok": true
  },
  {
-  "name": "START TV",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/PYYShEj.png",
-  "group": "ΔΥΤ. ΕΛΛΑΔΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-  "status": "dead",
-  "ok": false
- },
- {
   "name": "ILEKTRA TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/Ovl7Omf.png",
@@ -883,21 +871,9 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
- },
- {
-  "name": "ILEKTRA TV BUP",
-  "tvgId": "",
-  "logo": "https://i.imgur.com/Ovl7Omf.png",
-  "group": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://183.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "url": "https://183.giatvcdn.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "LYCHNOS",
@@ -908,7 +884,7 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
-  "status": "dead",
+  "status": "error",
   "ok": false
  },
  {
@@ -1244,8 +1220,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ΕΡΤ COSMOS",
@@ -1556,8 +1532,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "HOTBEATS TV",
@@ -2216,8 +2192,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "PELLA TV",
@@ -2647,9 +2623,9 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "url": "https://183.giatvcdn.com/ssh101/ssh101/greece24/playlist.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "CHANNEL 8",
