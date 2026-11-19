@@ -804,18 +804,6 @@
   "ok": true
  },
  {
-  "name": "FLASH TV",
-  "tvgId": "flashtv",
-  "logo": "https://i.imgur.com/toF5zyo.png",
-  "group": "ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",
-  "country": "",
-  "language": "",
-  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8",
-  "status": "ok",
-  "ok": true
- },
- {
   "name": "AXELWOS TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/DbDvmup.png",
@@ -1728,6 +1716,18 @@
   "ok": true
  },
  {
+  "name": "DIGITAL TV (ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ)",
+  "tvgId": "",
+  "logo": "https://i.imgur.com/ASEona5.png",
+  "group": "ΜΟΥΣΙΚΗ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://183.giatvcdn.com/giatv/giatv-MYTV/MYTV/playlist.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "MEGA NEWS",
   "tvgId": "",
   "logo": "https://i.imgur.com/owoR8Xi.png",
@@ -2144,8 +2144,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://neon.streams.gr:8081/lampsitv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "CHOICE TV",
@@ -2156,8 +2156,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://eu1.streams.gr:8081/choicetv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "DTP TV ΠΥΛΙΑΣ",
@@ -2216,8 +2216,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "PELLA TV",
@@ -2600,8 +2600,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "FAROS TV2 CY",
@@ -2612,8 +2612,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "DESTINATION GREECE",
