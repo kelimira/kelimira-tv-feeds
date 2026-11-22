@@ -512,8 +512,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "BLUE SKY HD BUP",
@@ -908,8 +908,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "BEST TV",
@@ -1004,8 +1004,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "TRT TV",
@@ -1100,8 +1100,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://livetv.streams.ovh:8081/kriti/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "NEA TV",
@@ -2204,8 +2204,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "PELLA TV",
@@ -2588,8 +2588,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "FAROS TV2 CY",
@@ -2600,8 +2600,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "DESTINATION GREECE",
@@ -2636,8 +2636,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://183.giatvcdn.com/ssh101/ssh101/greece24/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "CHANNEL 8",

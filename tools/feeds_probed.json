@@ -224,8 +224,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Cartoonito CEE",
@@ -356,8 +356,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
-  "status": "blocked",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Ellinikos FM (720p)",
@@ -500,8 +500,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "blocked",
+  "ok": false
  },
  {
   "name": "Gnomi TV (1080p)",
