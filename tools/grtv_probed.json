@@ -500,8 +500,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "BLUE SKY",
@@ -512,8 +512,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "BLUE SKY HD BUP",
@@ -740,8 +740,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "THRAKINET",
@@ -804,6 +804,18 @@
   "ok": true
  },
  {
+  "name": "FLASH TV",
+  "tvgId": "flashtv",
+  "logo": "https://i.imgur.com/toF5zyo.png",
+  "group": "ΔΥΤ. ΜΑΚΕΔΟΝΙΑ",
+  "country": "",
+  "language": "",
+  "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
+  "url": "https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "AXELWOS TV",
   "tvgId": "",
   "logo": "https://i.imgur.com/DbDvmup.png",
@@ -860,8 +872,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "error",
+  "ok": false
  },
  {
   "name": "ILEKTRA TV",
@@ -908,8 +920,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "BEST TV",
@@ -979,9 +991,9 @@
   "country": "",
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
-  "url": "https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "url": "https://183.giatvcdn.com/ssh101/ssh101/astratv/playlist.m3u8",
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "ASTRA TV BUP 2",
@@ -1100,8 +1112,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://livetv.streams.ovh:8081/kriti/index.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "NEA TV",
@@ -2180,8 +2192,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://183.giatvcdn.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "MR BEAN",
@@ -2720,8 +2732,8 @@
   "language": "",
   "source": "https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/android.m3u",
   "url": "https://fr.crystalweb.net:1936/gaminglab/gaminglab/playlist.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "GAMING LAB BUP",
