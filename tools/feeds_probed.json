@@ -68,8 +68,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Alfa Sport (1080p) [Not 24/7]",
@@ -284,8 +284,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
-  "status": "error",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "DELTA TV (720p)",
@@ -392,8 +392,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
-  "status": "dead",
-  "ok": false
+  "status": "ok",
+  "ok": true
  },
  {
   "name": "Epirus TV1 (720p)",
@@ -596,8 +596,8 @@
   "language": "",
   "source": "https://iptv-org.github.io/iptv/languages/ell.m3u",
   "url": "https://eu1.streams.gr:8081/kostv/index.m3u8",
-  "status": "ok",
-  "ok": true
+  "status": "dead",
+  "ok": false
  },
  {
   "name": "Kriti TV (1080p)",
