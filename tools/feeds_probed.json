@@ -1068,6 +1068,18 @@
   "ok": false
  },
  {
+  "name": "BRT 1 (1080p)",
+  "tvgId": "BRT1.cy@SD",
+  "logo": "https://i.imgur.com/gOPAi2c.png",
+  "group": "Undefined",
+  "country": "",
+  "language": "",
+  "source": "https://iptv-org.github.io/iptv/countries/cy.m3u",
+  "url": "https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8",
+  "status": "ok",
+  "ok": true
+ },
+ {
   "name": "FX (Turkiye) [Geo-blocked]",
   "tvgId": "FX.tr@HD",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
